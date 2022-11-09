@@ -63,14 +63,14 @@ iframe.center {
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: inherit;
+    background-color: maroon;
     z-index: 1;
 }
 
 .dropdown-content a {
     float: none;
     color: burlywood;
-    padding: 14px 16px;
+    padding: 14px 0px;
     display: inline;
     text-decoration: underline;
     text-align: center;
